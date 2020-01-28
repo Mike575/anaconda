@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/firefox/anaconda3/envs/rdkit
+exec_prefix=/home/firefox/anaconda3/envs/rdkit
+libdir=/home/firefox/anaconda3/envs/rdkit/lib
+includedir=/home/firefox/anaconda3/envs/rdkit/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  

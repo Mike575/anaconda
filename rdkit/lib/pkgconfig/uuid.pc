@@ -1,0 +1,11 @@
+prefix=/home/firefox/anaconda3/envs/rdkit
+exec_prefix=/home/firefox/anaconda3/envs/rdkit
+libdir=/home/firefox/anaconda3/envs/rdkit/lib
+includedir=/home/firefox/anaconda3/envs/rdkit/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

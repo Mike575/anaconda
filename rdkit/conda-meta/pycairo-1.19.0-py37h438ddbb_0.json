@@ -1,0 +1,149 @@
+{
+  "build": "py37h438ddbb_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "cairo >=1.16.0,<1.17.0a0",
+    "libgcc-ng >=7.3.0",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/firefox/anaconda3/pkgs/pycairo-1.19.0-py37h438ddbb_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/cairo/__init__.py",
+    "lib/python3.7/site-packages/cairo/__init__.pyi",
+    "lib/python3.7/site-packages/cairo/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/cairo/__pycache__/_cairo.cpython-37.pyc",
+    "lib/python3.7/site-packages/cairo/_cairo.cpython-37m-x86_64-linux-gnu.so",
+    "lib/python3.7/site-packages/cairo/_cairo.py",
+    "lib/python3.7/site-packages/cairo/include/py3cairo.h",
+    "lib/python3.7/site-packages/cairo/py.typed",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/native_libs.txt",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/not-zip-safe",
+    "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/top_level.txt"
+  ],
+  "fn": "pycairo-1.19.0-py37h438ddbb_0.tar.bz2",
+  "license": "LGPL 2.1, MPL 1.1",
+  "link": {
+    "source": "/home/firefox/anaconda3/pkgs/pycairo-1.19.0-py37h438ddbb_0",
+    "type": 1
+  },
+  "md5": "4e73fc5942d90bf81882e6beedf2cbb9",
+  "name": "pycairo",
+  "package_tarball_full_path": "/home/firefox/anaconda3/pkgs/pycairo-1.19.0-py37h438ddbb_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/cairo/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5c81ff76ff32f215f157da4f0fb44eef466d7dcc4ff7924ccdcfc19f1bfbf134",
+        "sha256_in_prefix": "5c81ff76ff32f215f157da4f0fb44eef466d7dcc4ff7924ccdcfc19f1bfbf134",
+        "size_in_bytes": 660
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "c2bcf6325e9780ca111fcb10c6d17ac8e4a03f82377ba12a17d14ecc41907f62",
+        "sha256_in_prefix": "c2bcf6325e9780ca111fcb10c6d17ac8e4a03f82377ba12a17d14ecc41907f62",
+        "size_in_bytes": 33334
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "7921d8e051575827ae159aaedc0fdea474c7cdf3e9ba5ee0a7b1f71f8f13b04d",
+        "sha256_in_prefix": "7921d8e051575827ae159aaedc0fdea474c7cdf3e9ba5ee0a7b1f71f8f13b04d",
+        "size_in_bytes": 752
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/__pycache__/_cairo.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e95611e2ab053f46e570437f8085ce156c304227796fa611081a40dc62022c6",
+        "sha256_in_prefix": "9e95611e2ab053f46e570437f8085ce156c304227796fa611081a40dc62022c6",
+        "size_in_bytes": 488
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/_cairo.cpython-37m-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "9cebbaddc52fe31b2cea1cba46dd5053c5bef31d0f2f9107bf4006c678f5f1a3",
+        "sha256_in_prefix": "9cebbaddc52fe31b2cea1cba46dd5053c5bef31d0f2f9107bf4006c678f5f1a3",
+        "size_in_bytes": 251776
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/_cairo.py",
+        "path_type": "hardlink",
+        "sha256": "bcff3bd7b61f07eed8a26af89f3014e1c66e02c054ea073743bba9add07041df",
+        "sha256_in_prefix": "bcff3bd7b61f07eed8a26af89f3014e1c66e02c054ea073743bba9add07041df",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/include/py3cairo.h",
+        "path_type": "hardlink",
+        "sha256": "acd39c610e5ef16e88430705215546334e1ae64011a00c38ee9c61d7e1d31770",
+        "sha256_in_prefix": "acd39c610e5ef16e88430705215546334e1ae64011a00c38ee9c61d7e1d31770",
+        "size_in_bytes": 9152
+      },
+      {
+        "_path": "lib/python3.7/site-packages/cairo/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "00b0c37fbae6d1dbc03d3198730254a1c59c4d9d57f7200bb9240f5cc9ae3dd2",
+        "sha256_in_prefix": "00b0c37fbae6d1dbc03d3198730254a1c59c4d9d57f7200bb9240f5cc9ae3dd2",
+        "size_in_bytes": 4154
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "a74ea9d7504c43fed9efc0778f92d6f27349c6ccd99b107a51d35300ad7fd766",
+        "sha256_in_prefix": "a74ea9d7504c43fed9efc0778f92d6f27349c6ccd99b107a51d35300ad7fd766",
+        "size_in_bytes": 3363
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/native_libs.txt",
+        "path_type": "hardlink",
+        "sha256": "2bd2ef4e388b79e4a474b89f7f080cf720dd55d23180b4da6c361e8031174bfe",
+        "sha256_in_prefix": "2bd2ef4e388b79e4a474b89f7f080cf720dd55d23180b4da6c361e8031174bfe",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycairo-1.19.0-py3.7-linux-x86_64.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "cd116d217f051994d80334cb5072fc25705eef77c609396d80a8a23c7cb8ddea",
+        "sha256_in_prefix": "cd116d217f051994d80334cb5072fc25705eef77c609396d80a8a23c7cb8ddea",
+        "size_in_bytes": 6
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "13ec4978feecaafb6dec7c3ab32ec3b9600b34d6fd132d2f59503beec596174d",
+  "size": 78977,
+  "subdir": "linux-64",
+  "timestamp": 1579903830862,
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/linux-64/pycairo-1.19.0-py37h438ddbb_0.tar.bz2",
+  "version": "1.19.0"
+}

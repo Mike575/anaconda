@@ -1,0 +1,14 @@
+#   LZ4 - Fast LZ compression algorithm
+#   Copyright (C) 2011-2014, Yann Collet.
+#   BSD 2-Clause License (http://www.opensource.org/licenses/bsd-license.php)
+
+prefix=/home/firefox/anaconda3/envs/rdkit
+libdir=/home/firefox/anaconda3/envs/rdkit/lib
+includedir=/home/firefox/anaconda3/envs/rdkit/include
+
+Name: lz4
+Description: extremely fast lossless compression algorithm library
+URL: http://www.lz4.org/
+Version: 1.8.3
+Libs: -L/home/firefox/anaconda3/envs/rdkit/lib -llz4
+Cflags: -I/home/firefox/anaconda3/envs/rdkit/include

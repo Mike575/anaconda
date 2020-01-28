@@ -1,0 +1,14 @@
+prefix=/home/firefox/anaconda3/envs/rdkit
+exec_prefix=/home/firefox/anaconda3/envs/rdkit
+libdir=/home/firefox/anaconda3/envs/rdkit/lib
+includedir=/home/firefox/anaconda3/envs/rdkit/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 23.0.17
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/home/firefox/anaconda3/envs/rdkit/lib -lpng16 -lm -lz -lm
+Cflags: -I${includedir}/freetype2
